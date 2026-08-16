@@ -1,0 +1,14 @@
+Tester uniquement l'environnement
+python -c "from ransomware_env import RansomwareEnv; env=RansomwareEnv(n_pc=5); obs, info=env.reset(); print('Observation initiale :', obs); print('Patient zéro :', info['patient_zero']); env.render(); env.close()"
+
+
+Tester aussi step()
+python -c "from ransomware_env import RansomwareEnv; env=RansomwareEnv(n_pc=5); obs, info=env.reset(); print('État initial :', obs); action=0; obs, reward, terminated, truncated, info=env.step(action); print('Nouvel état :', obs); print('Reward :', reward); print('Infectés :', info['nb_infectes']); env.render(); env.close()"
+
+Lancer Q-Learning
+dir
+python .\q_learning.py
+
+Lancer DQN
+dir
+python .\train_dqn.py 
