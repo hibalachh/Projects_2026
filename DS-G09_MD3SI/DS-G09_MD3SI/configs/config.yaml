@@ -1,0 +1,44 @@
+project:
+  name: DS-G07_MD3SI
+  seed: 42
+
+environment:
+  n_pc: 5
+  max_steps: 30
+  infection_probability: 0.30
+  reward_new_infection: -5.0
+  reward_action_cost: -1.0
+  reward_contained: 20.0
+  reward_total_compromise: -20.0
+
+training:
+  episodes: 80
+  gamma: 0.99
+  learning_rate: 0.001
+  batch_size: 32
+  replay_capacity: 10000
+  epsilon_start: 1.0
+  epsilon_min: 0.05
+  epsilon_decay: 0.995
+  target_update_frequency: 10
+  hidden_size: 32
+  warmup_steps: 64
+  train_every: 1
+
+evaluation:
+  episodes: 10
+  deterministic: true
+
+experiment:
+  seeds: [42, 43, 44]
+  window: 50
+
+paths:
+  model: results/dqn_ransomware.pth
+  training_csv: results/training.csv
+  evaluation_csv: results/evaluation.csv
+  before_video: videos/before_training.mp4
+  after_video: videos/after_training.mp4
+  learning_curve: figures/learning_curve.pdf
+  evaluation_figure: figures/evaluation.pdf
+  tensorboard_dir: logs/tensorboard
