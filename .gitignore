@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# The full dataset is ~350 MB: keep it out of git and place it in data/ locally.
+data/*.csv

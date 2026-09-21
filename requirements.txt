@@ -1,0 +1,9 @@
+streamlit>=1.50,<2.0
+plotly>=5.18,<6.0
+pandas>=2.2,<3.0
+numpy>=2.1,<3.0
+tensorflow>=2.21,<2.22
+# The pickled scaler / Isolation Forest / One-Class SVM were created with scikit-learn 1.7.2.
+# Loading them with a different version works today but is not guaranteed by scikit-learn.
+scikit-learn>=1.7.2,<1.8
+joblib>=1.3,<2.0
