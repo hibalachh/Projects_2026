@@ -1,0 +1,11 @@
+metric,value
+Total test images,44.0
+Images marked plate visible,42.0
+Images marked no visible plate,2.0
+Visible-plate images with a recorded detection,42.0
+Detection coverage on visible-plate images (%),100.0
+Images eligible for OCR evaluation,36.0
+OCR exact matches,30.0
+OCR exact-match accuracy (%),83.33
+Mean character error rate (%),4.51
+Visible images needing ground-truth text,6.0

@@ -1,0 +1,12 @@
+image_gt,ground_truth,crop_name,image_pred,plate_number,detection_confidence,ocr_confidence,crop_path,status,_merge,ground_truth_normalized,prediction_normalized,exact_match,cer,prediction_found
+Cars100_plate_1.jpg,WW95550,Cars100_plate_1.jpg,Cars100.png,ATWW95550,0.2504,0.8901,outputs\anpr\plate_crops\Cars100_plate_1.jpg,text_read,both,WW95550,ATWW95550,False,0.2857142857142857,True
+Cars109_plate_1.jpg,CZI7KOD,Cars109_plate_1.jpg,Cars109.png,CZI7K0DGB,0.8685,0.9524,outputs\anpr\plate_crops\Cars109_plate_1.jpg,text_read,both,CZI7KOD,CZI7K0DGB,False,0.42857142857142855,True
+Cars111_plate_1.jpg,MH20EE7598,Cars111_plate_1.jpg,Cars111.png,MH20EE7598,0.7712,0.9996,outputs\anpr\plate_crops\Cars111_plate_1.jpg,text_read,both,MH20EE7598,MH20EE7598,True,0.0,True
+Cars112_plate_1.jpg,SHAKNBK,Cars112_plate_1.jpg,Cars112.png,SHAKNBK,0.843,0.9999,outputs\anpr\plate_crops\Cars112_plate_1.jpg,text_read,both,SHAKNBK,SHAKNBK,True,0.0,True
+Cars11_plate_1.jpg,WOR516K,Cars11_plate_1.jpg,Cars11.png,WOR516K,0.8546,0.9617,outputs\anpr\plate_crops\Cars11_plate_1.jpg,text_read,both,WOR516K,WOR516K,True,0.0,True
+Cars138_plate_1.jpg,TN029,Cars138_plate_1.jpg,Cars138.png,TN02L,0.3794,0.9728,outputs\anpr\plate_crops\Cars138_plate_1.jpg,text_read,both,TN029,TN02L,False,0.2,True
+Cars140_plate_1.jpg,CH01AN0001,Cars140_plate_1.jpg,Cars140.png,CH01AN0001,0.7141,0.9978,outputs\anpr\plate_crops\Cars140_plate_1.jpg,text_read,both,CH01AN0001,CH01AN0001,True,0.0,True
+Cars145_plate_1.jpg,CH01AN0001,Cars145_plate_1.jpg,Cars145.png,CH01AN0001,0.7141,0.9978,outputs\anpr\plate_crops\Cars145_plate_1.jpg,text_read,both,CH01AN0001,CH01AN0001,True,0.0,True
+Cars15_plate_1.jpg,TN21BY0166,Cars15_plate_1.jpg,Cars15.png,TN21BY0166,0.6554,0.9737,outputs\anpr\plate_crops\Cars15_plate_1.jpg,text_read,both,TN21BY0166,TN21BY0166,True,0.0,True
+Cars171_plate_1.jpg,BJR216,Cars171_plate_1.jpg,Cars171.png,BJR216,0.8463,0.9995,outputs\anpr\plate_crops\Cars171_plate_1.jpg,text_read,both,BJR216,BJR216,True,0.0,True
+Cars17_plate_1.jpg,YSX213,Cars17_plate_1.jpg,Cars17.png,YSX213,0.558,0.9935,outputs\anpr\plate_crops\Cars17_plate_1.jpg,text_read,both,YSX213,YSX213,True,0.0,True

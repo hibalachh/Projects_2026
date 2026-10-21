@@ -1,0 +1,45 @@
+﻿image,plate_visible,ground_truth_plate,predicted_crops,reviewed
+Cars100.png,yes,WW95550,Cars100_plate_1.jpg: ATWW95550 (YOLO=0.2504),yes
+Cars109.png,yes,CZI7KOD,Cars109_plate_1.jpg: CZI7K0DGB (YOLO=0.8685),yes
+Cars11.png,yes,WOR516K,Cars11_plate_1.jpg: WOR516K (YOLO=0.8546),yes
+Cars111.png,yes,MH20EE7598,Cars111_plate_1.jpg: MH20EE7598 (YOLO=0.7712),yes
+Cars112.png,yes,SHAKNBK,Cars112_plate_1.jpg: SHAKNBK (YOLO=0.843),yes
+Cars138.png,yes,TN029,Cars138_plate_1.jpg: TN02L (YOLO=0.3794),yes
+Cars140.png,yes,CH01AN0001,Cars140_plate_1.jpg: CH01AN0001 (YOLO=0.7141) | Cars140_plate_2.jpg: [NO TEXT] (YOLO=0.339),yes
+Cars145.png,yes,CH01AN0001,Cars145_plate_1.jpg: CH01AN0001 (YOLO=0.7141) | Cars145_plate_2.jpg: [NO TEXT] (YOLO=0.339),yes
+Cars15.png,yes,TN21BY0166,Cars15_plate_1.jpg: TN21BY0166 (YOLO=0.6554),yes
+Cars162.png,no,,No plate detected,no
+Cars17.png,yes,YSX213,Cars17_plate_1.jpg: YSX213 (YOLO=0.558) | Cars17_plate_2.jpg: [NO TEXT] (YOLO=0.3905),yes
+Cars171.png,yes,BJR216,Cars171_plate_1.jpg: BJR216 (YOLO=0.8463) | Cars171_plate_2.jpg: [NO TEXT] (YOLO=0.3179),yes
+Cars19.png,yes,,Cars19_plate_1.jpg: AFR2011GOVTOFSINDH (YOLO=0.6827),yes
+Cars198.png,yes,MH01AV8866,Cars198_plate_1.jpg: MH01AV8866 (YOLO=0.6797),yes
+Cars199.png,yes,MH01AE8017,Cars199_plate_1.jpg: MH01AE8017IND (YOLO=0.8628) | Cars199_plate_2.jpg: MH01AE8017IND (YOLO=0.7364),yes
+Cars2.png,yes,Preanup,Cars2_plate_1.jpg: PREANUP (YOLO=0.7726),yes
+Cars200.png,yes,KA03B3380,Cars200_plate_1.jpg: KA03AB3380 (YOLO=0.741),yes
+Cars205.png,yes,NOTACOP,Cars205_plate_1.jpg: NOTACOP (YOLO=0.7668),yes
+Cars210.png,yes,MH01AE8017,Cars210_plate_1.jpg: MH01AE8017IND (YOLO=0.8628) | Cars210_plate_2.jpg: MH01AE8017IND (YOLO=0.7364),yes
+Cars224.png,no,,No plate detected,no
+Cars226.png,yes,TN19S4523,Cars226_plate_1.jpg: TN19S4523 (YOLO=0.5645) | Cars226_plate_2.jpg: THRUSTZONE (YOLO=0.3975) | Cars226_plate_3.jpg: THRUSTZONE (YOLO=0.3604),yes
+Cars255.png,yes,MH20EJ0364,Cars255_plate_1.jpg: MH20EJ0364 (YOLO=0.8025),yes
+Cars291.png,yes,KA02A6579,Cars291_plate_1.jpg: KA02A6579 (YOLO=0.4205),yes
+Cars293.png,yes,GBI8TCE,Cars293_plate_1.jpg: GBI8TCE (YOLO=0.714),yes
+Cars304.png,yes,SNEWYORKHNYCHIL3,Cars304_plate_1.jpg: SNEWYORKHNYCHIL3 (YOLO=0.7345),yes
+Cars330.png,yes,,Cars330_plate_1.jpg: MR6751 (YOLO=0.581) | Cars330_plate_2.jpg: MC6800 (YOLO=0.5577) | Cars330_plate_3.jpg: [NO TEXT] (YOLO=0.2981),yes
+Cars35.png,yes,,Cars35_plate_1.jpg: K0188 (YOLO=0.6332) | Cars35_plate_2.jpg: AK0188 (YOLO=0.5192),yes
+Cars357.png,yes,,Cars357_plate_1.jpg: K0188 (YOLO=0.6332) | Cars357_plate_2.jpg: AK0188 (YOLO=0.5192),yes
+Cars37.png,yes,FASTVIRGINIA,Cars37_plate_1.jpg: FASTVIRGINIA (YOLO=0.8135),yes
+Cars370.png,yes,CH01AN0001,Cars370_plate_1.jpg: CH01AN0001 (YOLO=0.7141) | Cars370_plate_2.jpg: [NO TEXT] (YOLO=0.339),yes
+Cars376.png,yes,B2228HM,Cars376_plate_1.jpg: B2228HM (YOLO=0.632),yes
+Cars393.png,yes,M771276,Cars393_plate_1.jpg: M771276 (YOLO=0.8187),yes
+Cars398.png,yes,,Cars398_plate_1.jpg: MMN306DICICANQUEAUMIRCLATTOYOTA (YOLO=0.7811),yes
+Cars41.png,yes,YNTZDBG,Cars41_plate_1.jpg: YNTZDBG (YOLO=0.8655),yes
+Cars42.png,yes,BYHM136,Cars42_plate_1.jpg: BYHM136 (YOLO=0.776),yes
+Cars421.png,yes,,Cars421_plate_1.jpg: USP (YOLO=0.3973),yes
+Cars428.png,yes,DZ17YXR,Cars428_plate_1.jpg: DZ17YXR (YOLO=0.8084),yes
+Cars49.png,yes,30BPUND610304,Cars49_plate_1.jpg: 30BPUND610304 (YOLO=0.7654),yes
+Cars50.png,yes,PUI8BES,Cars50_plate_1.jpg: PUI8BES (YOLO=0.7047) | Cars50_plate_2.jpg: PUI8BES (YOLO=0.6109),yes
+Cars59.png,yes,MH46P161,Cars59_plate_1.jpg: MH46P161 (YOLO=0.795),yes
+Cars68.png,yes,BJR216,Cars68_plate_1.jpg: BJR216 (YOLO=0.8463) | Cars68_plate_2.jpg: [NO TEXT] (YOLO=0.3179),yes
+Cars85.png,yes,VU63GTY,Cars85_plate_1.jpg: VU63GTY (YOLO=0.5902),yes
+Cars88.png,yes,MILOLFW2151,Cars88_plate_1.jpg: MILOLFW2151 (YOLO=0.7433),yes
+Cars96.png,yes,PGMN112MNE,Cars96_plate_1.jpg: PGMN112MNE (YOLO=0.8441),yes

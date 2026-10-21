@@ -1,0 +1,2 @@
+total_test_images,visible_plate_images,labelled_images_evaluated,exact_matches,exact_match_accuracy_percent,predictions_flagged_for_review,ground_truth_labels_missing
+44,42,36,30,83.33,4,6
